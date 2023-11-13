@@ -1,8 +1,15 @@
-#titulo {
-    text-align: center;
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #009041;
 }
 
-.texto {
-    color: #181661;
-    text-align: center;
+#banner {
+    width: 100%;
+    margin: 20px auto;
+}
+
+p {
+    margin: 20px 0;
 }
